@@ -15,3 +15,5 @@ The objective of this project is to analyze digital wallet transaction data usin
 - Which merchants have the highest transaction volumes or values?
 - What is the distribution of transactions by country?
 - What are the most used payment types (Card, Wallet Balance, Bank)?
+
+- Dashboard Interaction 
