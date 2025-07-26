@@ -29,14 +29,14 @@ The objective of this project is to analyze digital wallet transaction data usin
 - Reviewed key fields like transaction amount, cashback, status, customer & merchant names
 - Identified distributions and outliers
 - Checked unique values in categorical fields (e.g., device types, countries)
-  Data Transformation
-  Created pivot tables for aggregation
-  Calculated total payments, cashback, and transaction count
-  Grouped data by user, merchant, device, and country
-  KPI Development
-  Defined key metrics: total payments, cashback, top users, top merchants, success rate
-  Built supporting metrics like payment method distribution and device usage
-  Dashboard Visualization
-  Used Excel charts (bar, pie, column) for visual storytelling
-  Designed dashboard layout for clarity and easy navigation
-  Highlighted key trends using conditional formatting and colors
+- Data Transformation
+- Created pivot tables for aggregation
+- Calculated total payments, cashback, and transaction count
+- Grouped data by user, merchant, device, and country
+- KPI Development
+- Defined key metrics: total payments, cashback, top users, top merchants, success rate
+- Built supporting metrics like payment method distribution and device usage
+- Dashboard Visualization
+- Used Excel charts (bar, pie, column) for visual storytelling
+- Designed dashboard layout for clarity and easy navigation
+- Highlighted key trends using conditional formatting and colors
