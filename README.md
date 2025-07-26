@@ -40,3 +40,6 @@ The objective of this project is to analyze digital wallet transaction data usin
 - Used Excel charts (bar, pie, column) for visual storytelling
 - Designed dashboard layout for clarity and easy navigation
 - Highlighted key trends using conditional formatting and colors
+
+## Dashboard
+<img width="2489" height="1046" alt="Home Dashboard" src="https://github.com/user-attachments/assets/42bc9bc2-ab8c-4d60-a6cc-76341cce30a8" />
