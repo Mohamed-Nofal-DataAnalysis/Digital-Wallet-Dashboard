@@ -5,3 +5,12 @@ The objective of this project is to analyze digital wallet transaction data usin
 ## Dataset used
 [Download Dataset](https://github.com/Mohamed-Nofal-DataAnalysis/Digital-Wallet-Dashboard/raw/main/Digital_wallet_transactions%20Dashboard.xlsx)
 
+## Questions (KPIs)
+What is the total number of transactions made via the digital wallet?
+What is the total payment amount and total cashback distributed?
+Which transaction status is most common (Success, Failed, Pending)?
+Which devices (Android, iOS, Web) are most commonly used for transactions?
+Who are the top 5 customers based on payment value?
+Which merchants have the highest transaction volumes or values?
+What is the distribution of transactions by country?
+What are the most used payment types (Card, Wallet Balance, Bank)?
