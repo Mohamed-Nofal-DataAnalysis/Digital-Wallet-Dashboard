@@ -43,8 +43,17 @@ The objective of this project is to analyze digital wallet transaction data usin
 
 ## Dashboard
 <img width="2489" height="1046" alt="Home Dashboard" src="https://github.com/user-attachments/assets/42bc9bc2-ab8c-4d60-a6cc-76341cce30a8" />
-
- 
 <img width="2461" height="1058" alt="Datiles Dashboard" src="https://github.com/user-attachments/assets/6ff7583f-eba7-4d85-9523-166d5198bec3" />
 
+## Project Insight
+- Users prefer successful transactions, which represent the majority of operations, indicating system reliability.
+- Android devices are the most commonly used platform for digital wallet transactions.
+- A few top users contribute to a large portion of the total payment volume.
+- Card payments dominate as the most used payment method, followed by wallet balance.
+- Most transactions are concentrated in specific countries, reflecting regional engagement.
+- Some merchants show significantly higher transaction volumes, which can guide marketing efforts.
+- Cashback usage is substantial and could influence user retention strategies.
+- The data indicates strong user engagement, but there's room for improvement in failed or pending transactions.
 
+##Final Conclusion :
+This Excel dashboard project successfully provides a clear and interactive overview of digital wallet transactions. By analyzing user behavior, payment methods, and merchant activity, the dashboard offers valuable insights for decision-making and performance optimization. The project highlights the power of Excel in transforming raw data into actionable business intelligence.
