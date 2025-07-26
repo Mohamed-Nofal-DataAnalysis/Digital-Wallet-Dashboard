@@ -55,5 +55,5 @@ The objective of this project is to analyze digital wallet transaction data usin
 - Cashback usage is substantial and could influence user retention strategies.
 - The data indicates strong user engagement, but there's room for improvement in failed or pending transactions.
 
-##Final Conclusion :
+## Final Conclusion :
 This Excel dashboard project successfully provides a clear and interactive overview of digital wallet transactions. By analyzing user behavior, payment methods, and merchant activity, the dashboard offers valuable insights for decision-making and performance optimization. The project highlights the power of Excel in transforming raw data into actionable business intelligence.
