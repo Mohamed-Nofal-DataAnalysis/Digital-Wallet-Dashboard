@@ -3,4 +3,5 @@
 The objective of this project is to analyze digital wallet transaction data using Microsoft Excel. The goal is to identify user behavior patterns, track transaction performance, and provide insights into payment methods, device usage, and merchant activity.
 
 ## Dataset used
-- < a herf="https://github.com/Mohamed-Nofal-DataAnalysis/Digital-Wallet-Dashboard/blob/main/Digital_wallet_transactions%20Dashboard.xlsx">Dataset<a/>
+[Download Dataset](https://github.com/Mohamed-Nofal-DataAnalysis/Digital-Wallet-Dashboard/raw/main/Digital_wallet_transactions%20Dashboard.xlsx)
+
