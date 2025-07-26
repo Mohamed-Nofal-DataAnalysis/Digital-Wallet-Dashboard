@@ -19,44 +19,24 @@ The objective of this project is to analyze digital wallet transaction data usin
 - Dashboard Interaction [Home Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Digital-Wallet-Dashboard/blob/main/Home%20Dashboard.png)  | [Datiles Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Digital-Wallet-Dashboard/blob/main/Datiles%20Dashboard.png) 
 
 ## Process
-Data Cleaning
-
-Removed duplicates
-
-Fixed date formats
-
-Handled missing values
-
-Standardized column names (e.g., Payment Type, Status, Device Type)
-
-Converted numeric columns to appropriate data types
-
-Data Exploration
-
-Reviewed key fields like transaction amount, cashback, status, customer & merchant names
-
-Identified distributions and outliers
-
-Checked unique values in categorical fields (e.g., device types, countries)
-
-Data Transformation
-
-Created pivot tables for aggregation
-
-Calculated total payments, cashback, and transaction count
-
-Grouped data by user, merchant, device, and country
-
-KPI Development
-
-Defined key metrics: total payments, cashback, top users, top merchants, success rate
-
-Built supporting metrics like payment method distribution and device usage
-
-Dashboard Visualization
-
-Used Excel charts (bar, pie, column) for visual storytelling
-
-Designed dashboard layout for clarity and easy navigation
-
-Highlighted key trends using conditional formatting and colors
+- Data Cleaning
+- Removed duplicates
+- Fixed date formats
+- Handled missing values
+- Standardized column names (e.g., Payment Type, Status, Device Type)
+- Converted numeric columns to appropriate data types
+- Data Exploration
+- Reviewed key fields like transaction amount, cashback, status, customer & merchant names
+- Identified distributions and outliers
+- Checked unique values in categorical fields (e.g., device types, countries)
+  Data Transformation
+  Created pivot tables for aggregation
+  Calculated total payments, cashback, and transaction count
+  Grouped data by user, merchant, device, and country
+  KPI Development
+  Defined key metrics: total payments, cashback, top users, top merchants, success rate
+  Built supporting metrics like payment method distribution and device usage
+  Dashboard Visualization
+  Used Excel charts (bar, pie, column) for visual storytelling
+  Designed dashboard layout for clarity and easy navigation
+  Highlighted key trends using conditional formatting and colors
