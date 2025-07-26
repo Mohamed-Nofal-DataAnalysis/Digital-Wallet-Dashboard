@@ -16,4 +16,5 @@ The objective of this project is to analyze digital wallet transaction data usin
 - What is the distribution of transactions by country?
 - What are the most used payment types (Card, Wallet Balance, Bank)?
 
-- Dashboard Interaction < a herf="https://github.com/Mohamed-Nofal-DataAnalysis/Digital-Wallet-Dashboard/blob/main/Datiles%20Dashboard.png">Home Dashbord </a>
+- Dashboard Interaction [Home Dashboard ](https://github.com/Mohamed-Nofal-DataAnalysis/Digital-Wallet-Dashboard/blob/main/Digital_Wallet_Dashboard.png)
+
